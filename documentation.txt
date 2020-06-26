@@ -1,0 +1,15 @@
+in the index.js [
+
+    1. import node_modules 
+    2. create your app variable
+    3. create you sever
+
+]
+
+in the book-router[
+    1. import modules
+    2. initialize  routes
+    3 .create routes
+    4. get request
+
+]
